@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thomastang]]></title>
         <description><![CDATA[thomastang]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thomastang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 11:11:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 13:11:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thomastang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BECAUSE I LOVE WHAT I DO]]></title>
-            <description><![CDATA[<article><h1>BECAUSE I LOVE WHAT I DO</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2b4497-6f19-4933-9b77-2f9f5ffd8ad9.gif"></article>]]></description>
-            <link>undefinedbecause-i-love-what-i-do/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47b66f34-534a-439b-9924-08eebfa69081.gif"></article>]]></description>
+            <link>https://thegrid.ai/thomastang/because-i-love-what-i-do/index.html</link>
             <guid isPermaLink="false">3f31b349-1928-4b16-9ad4-de1ab900d0ce</guid>
-            <pubDate>Tue, 26 Apr 2016 11:11:02 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 13:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

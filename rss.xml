@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thomastang]]></title>
+        <description><![CDATA[thomastang]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 11:11:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BECAUSE I LOVE WHAT I DO]]></title>
+            <description><![CDATA[<article><h1>BECAUSE I LOVE WHAT I DO</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2b4497-6f19-4933-9b77-2f9f5ffd8ad9.gif"></article>]]></description>
+            <link>undefinedbecause-i-love-what-i-do/index.html</link>
+            <guid isPermaLink="false">3f31b349-1928-4b16-9ad4-de1ab900d0ce</guid>
+            <pubDate>Tue, 26 Apr 2016 11:11:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
